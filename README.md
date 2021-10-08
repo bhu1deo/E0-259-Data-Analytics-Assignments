@@ -6,4 +6,4 @@ This Repo contains interesting data analytics assignments that I worked on in my
 
 2.) DLS Predictor: The next time you have a rain interruption, don't wait for the DLS score! DYI!
 
-3.) Covid-19: Third wave, when are you coming? I have uploaded the results report for now, will upload my code when the assignment is due. 
+3.) Covid-19: Third wave, when are you coming? 
